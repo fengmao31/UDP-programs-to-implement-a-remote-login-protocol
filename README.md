@@ -25,14 +25,14 @@ C#无此官方函数，第三方的库年代未知。
 ##rsa函数必须填充
 rsa函数必须填充才能加密解密，否则是乱码。
 
-#重要参考网站
+# 重要参考网站
 RSAEncryptionPadding.OaepSHA1 Property
 https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rsaencryptionpadding.oaepsha1?view=net-5.0
 
 .NET Encryption Simplified
 https://www.codeproject.com/Articles/10154/NET-Encryption-Simplified
 
-#工具类网站
+# 工具类网站
 编码转换
 https://www.asciitohex.com/
 
