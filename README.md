@@ -6,7 +6,7 @@
 # 踩过的坑
 
 ## hash是结果16进制
-其实C#安全密码库里面有相关函数，不熟悉也不会用。尽量复制https://stackoverflow.com/函数，不要自己写，否则会产生非常多bug。（注明引用是个好习惯）
+其实C#安全密码库里面有相关函数，不熟悉也不会用。尽量复制 https://stackoverflow.com/ 函数，不要自己写，否则会产生非常多bug。（注明引用是个好习惯）
 
 ##C#没base的编码函数
 C#没base的编码函数得变成byte转化
@@ -27,6 +27,7 @@ rsa函数必须填充才能加密解密，否则是乱码。
 
 # 重要参考网站
 RSAEncryptionPadding.OaepSHA1 Property
+
 https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rsaencryptionpadding.oaepsha1?view=net-5.0
 
 .NET Encryption Simplified
@@ -34,10 +35,13 @@ https://www.codeproject.com/Articles/10154/NET-Encryption-Simplified
 
 # 工具类网站
 编码转换
+
 https://www.asciitohex.com/
 
 rsa加密解密
+
 http://www.metools.info/code/c81.html
 
 pem和xml格式密钥转换
+
 https://superdry.apphb.com/tools/online-rsa-key-converter
