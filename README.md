@@ -49,3 +49,6 @@ https://superdry.apphb.com/tools/online-rsa-key-converter
 同时调试2个窗口server和client。
 
 或者同时打开两个Virtual Stduio同时调试。
+
+# 注意引用
+大家都不容易，你作业上好歹给个参考网址。
